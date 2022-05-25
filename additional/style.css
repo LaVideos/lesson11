@@ -1,0 +1,17 @@
+*{
+    font-family: Montserrat,serif;
+    margin: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    background: #3bcef1;
+
+    display: block;
+    width: 100px;
+    height: 20px;
+
+    text-align: center;
+    justify-content: center;
+}
